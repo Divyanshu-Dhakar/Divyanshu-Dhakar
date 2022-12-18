@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @Divyanshu-Dhakar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- you can message me
-- 
-
-<!---
-Divyanshu-Dhakar/Divyanshu-Dhakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a Frontend Developer
+- 🌱 I’m currently learning React Js
+- 💞️ I’m looking to collaborate on freelance projects
+- 📫 You canreach me at divyanshudhakar29@gmail.com
+Visit: codeomit.com
